@@ -26,13 +26,12 @@ export async function getStaticProps() {
   const querySnapshot = await getDocs(q);
   const segurados = [];
   querySnapshot.forEach((doc) => {
-      let r = doc.data()
-      const userObject = {
-        email: r.email,
-        mat: r.matricula,
-        //token:r.token,
+    let r = doc.data()
+    const userObject = {
+      email: r.email,
+      mat: r.matricula ? r.matricula : null,
     };
-      segurados.push(userObject);
+    segurados.push(userObject);
   });
   
   return {
