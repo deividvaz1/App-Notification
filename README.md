@@ -3,7 +3,7 @@
 ### Este projeto é um site que permite enviar mensagens personalizadas para um celular que tenha instalado o aplicativo do Saúde App!
 
 Foi criado um protótipo de aplicativo para o Saúde App, acessível em:
-https://github.com/
+
 
 [Screens do celular](/assets/SS.png)
 
