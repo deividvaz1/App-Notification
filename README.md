@@ -8,7 +8,7 @@ Foi criado um protótipo de aplicativo para o Saúde App, acessível em:
 [Screens do celular](/assets/SS.png)
 
 Este site estará rodando na Vercel acessível em:
-
+https://app-notification.vercel.app/
 
 ![Site](/assets/home.png)
 
@@ -28,7 +28,7 @@ Fizemos uma verificação onde somente os funcionários do financeiro podem envi
 
 Abaixo, mantive o histórico do desenvolvimento:
 
-Estamos criando um Web Client para conectar com as notificações de um App! Este site estará rodando na Vercel acessível em:
+Estamos criando um Web Client para conectar com as notificações de um App! Este site estará rodando na Vercel acessível em: https://app-notification.vercel.app/
 
 
 Nesse momento adicionei o TailWind para configurar o CSS e criei uma página de Inscrição!
