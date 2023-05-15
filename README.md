@@ -8,7 +8,7 @@ Foi criado um protótipo de aplicativo para o Saúde App, acessível em:
 [Screens do celular](/assets/SS.png)
 
 Este site estará rodando na Vercel acessível em:
-https://app-notification.vercel.app/
+https://web-notification-phi.vercel.app/
 
 ![Site](/assets/home.png)
 
